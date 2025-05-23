@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ti-Loup
-- 👀 I’m interested in Video Games and coding C++ C# 
+- 👀 I’m interested in Video Games and coding C++ C# html
 - 🌱 I’m currently learning c# and Java
-- 💞️ I’m looking to collaborate on (Nothing at the moment)
+- 💞️ Looking for stage
 - 📫 How to reach me discord : tiloup_ 
 
 <!---
