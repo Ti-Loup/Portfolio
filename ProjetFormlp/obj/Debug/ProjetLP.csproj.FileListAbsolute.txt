@@ -1,0 +1,11 @@
+C:\Users\Louis-Philippe\source\repos\ProjetLP\bin\Debug\ProjetLP.exe.config
+C:\Users\Louis-Philippe\source\repos\ProjetLP\bin\Debug\ProjetLP.exe
+C:\Users\Louis-Philippe\source\repos\ProjetLP\bin\Debug\ProjetLP.pdb
+C:\Users\Louis-Philippe\source\repos\ProjetLP\obj\Debug\ProjetLP.csproj.AssemblyReference.cache
+C:\Users\Louis-Philippe\source\repos\ProjetLP\obj\Debug\ProjetLP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Louis-Philippe\source\repos\ProjetLP\obj\Debug\ProjetLP.Jeu.resources
+C:\Users\Louis-Philippe\source\repos\ProjetLP\obj\Debug\ProjetLP.Properties.Resources.resources
+C:\Users\Louis-Philippe\source\repos\ProjetLP\obj\Debug\ProjetLP.csproj.GenerateResource.cache
+C:\Users\Louis-Philippe\source\repos\ProjetLP\obj\Debug\ProjetLP.csproj.CoreCompileInputs.cache
+C:\Users\Louis-Philippe\source\repos\ProjetLP\obj\Debug\ProjetLP.exe
+C:\Users\Louis-Philippe\source\repos\ProjetLP\obj\Debug\ProjetLP.pdb
