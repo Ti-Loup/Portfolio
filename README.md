@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Ti-Loup<br>- 👀 I’m interested in Video Games and coding C++ C# html<br>- 🌱 I’m currently learning C++ + Engine<br>- 💞️ Looking for stage<br>- 📫 How to reach me : lpgauving36@gmail.com<br>- 🍓 discord : tiloup_<br>- ♡⋆⭒˚｡⋆🦌 Passionate about everything I do.<br>- 𐂂 Eager to learn everyday<br>     ✩₊˚.⋆☾𓃦☽⋆⁺₊✧
+- 👋 Hi, I’m @Ti-Loup<br>- 👀 I’m interested in Video Games and coding C++ C# html<br>- 🌱 I’m currently learning C++ + Engine<br>- 💞️ Looking for stage<br>- 📫 How to reach me : lpgauving36@gmail.com<br>- 🍓 discord : tiloup_<br>- ♡⋆⭒˚｡⋆🦌 Passionate about everything I do.<br>- 𐂂 Eager to learn something new everyday<br>     ✩₊˚.⋆☾𓃦☽⋆⁺₊✧
 
 
 ## 🌐 Socials:
